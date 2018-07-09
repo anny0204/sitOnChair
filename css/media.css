@@ -1,0 +1,27 @@
+/*Large devices */
+@media only screen and (max-width: 1200px) {
+    .container {
+        /* width:  800px; */
+    }
+}
+
+/*Medium devices, Desktops */
+@media only screen and (max-width: 992px) {
+    .container {
+        /* width: 700px; */
+    }
+}
+
+/*Small devices, Tablets */
+@media only screen and (max-width: 768px) {
+    .container {
+        /* width: 500px; */
+    }
+}
+
+/*Extra small devices, Phones */
+@media only screen and (max-width: 480px) {
+    .container {
+        /* width: 280px; */
+    }
+}
